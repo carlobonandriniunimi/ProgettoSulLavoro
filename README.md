@@ -1,6 +1,9 @@
 # ProgettoSulLavoro
 Progetto sulle assunzioni e disoccupazione in Lombardia ed a Milano
 
+I seguenti datasets sono da inserire in una cartella "Data" nella root directory della repo per 
+eseguire il notebook.
+
 Per scaricare i relativi Datasets visitare i seguenti link:
 Lavori attivati in Lombardia (1.72 Gb)
 https://www.dati.lombardia.it/Attivit-Produttive/Rapporti-di-lavoro-prorogati/chng-cman
