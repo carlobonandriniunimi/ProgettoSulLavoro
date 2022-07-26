@@ -8,7 +8,7 @@ Per scaricare i relativi Datasets visitare i seguenti link:
 Lavori attivati in Lombardia (1.72 Gb)
 https://www.dati.lombardia.it/Attivit-Produttive/Rapporti-di-lavoro-prorogati/chng-cman
 
-Lavori terminati in Lombardia (667.8 Gb)
+Lavori terminati in Lombardia (667.8 Mb)
 https://www.dati.lombardia.it/Attivit-Produttive/Rapporti-di-lavoro-cessati/nwz3-p6vm
 
 Lavori avviati a Milano
